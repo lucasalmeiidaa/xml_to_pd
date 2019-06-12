@@ -106,3 +106,4 @@ venv.bak/
 #bases
 bases/
 exemplos/
+*xlsx
